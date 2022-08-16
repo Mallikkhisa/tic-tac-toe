@@ -1,0 +1,3 @@
+Rules of the game is here
+1. Each player get one chance to apply change
+2. If at any pont of time a player can get all the diagonal ,horizontal or verticle with it's move the he wins.
